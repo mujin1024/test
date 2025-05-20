@@ -23,7 +23,7 @@ headers = {
 
 # 硬编码账号配置
 accounts = [
-    {"username": "750116098@qq.com", "password": "123456"},
+    {"username": "132456@qq.com", "password": "123456"},
     #{"username": "123456@qq.com", "password": "123456"}
     # 可以根据需要添加更多账号
 ]
